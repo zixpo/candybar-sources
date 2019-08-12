@@ -1,0 +1,8 @@
+{
+  "latestVersionCode": 354,
+  "disableRequest": {
+    "from": 10,
+    "to": 60,
+    "on": 354
+  }
+}
