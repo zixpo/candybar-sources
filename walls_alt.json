@@ -3,13 +3,15 @@
     "name": "Sunset",
     "author": "Someone",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png"
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png",
+    "downloadable": true
   },
   {
     "name": "Night City",
     "author": "Someone",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png"
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png",
+    "downloadable": false
   },
   {
     "name": "Colorize Gradient",
@@ -45,7 +47,8 @@
     "name": "Mid Boat",
     "author": "Ahmad Ansari",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/MidBoat.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/MidBoat.jpg"
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/MidBoat.jpg",
+    "downloadable": false
   },
   {
     "name": "Flower",
@@ -56,7 +59,8 @@
   {
     "name": "Tasty Fruit",
     "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
+    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200",
+    "downloadable": true
   },
   {
     "name": "Low End",
