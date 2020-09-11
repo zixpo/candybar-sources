@@ -2,7 +2,8 @@
   "latestVersion": "1.0",
   "latestVersionCode": 374,
   "disableRequest": {
-    "below": 376
+    "below": 374,
+    "on": "375 348"
   },
   "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
