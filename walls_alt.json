@@ -1,51 +1,12 @@
 [
   {
-    "name": "Sunset",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png"
+    "name": "Low End",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png"
   },
   {
-    "name": "Night City",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png"
-  },
-  {
-    "name": "Colorize Gradient",
-    "author": "Dailywalls",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/colorizegradient.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/colorizegradient.png"
-  },
-  {
-    "name": "Blue Water",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png"
-  },
-  {
-    "name": "Aerial",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/aerial.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/aerial.png"
-  },
-  {
-    "name": "Sea Beach",
-    "author": "Gplus",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/SeaBeach.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/SeaBeach.jpg"
-  },
-  {
-    "name": "Dark Landscape",
-    "author": "Gplus",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/DarkLandscape.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/DarkLandscape.jpg"
-  },
-  {
-    "name": "Mid Boat",
-    "author": "Ahmad Ansari",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/MidBoat.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/MidBoat.jpg"
+    "name": "Tasty Fruit",
+    "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
+    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
   },
   {
     "name": "Flower",
@@ -54,12 +15,51 @@
     "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png"
   },
   {
-    "name": "Tasty Fruit",
-    "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Mid Boat",
+    "author": "Ahmad Ansari",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/MidBoat.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/MidBoat.jpg"
   },
   {
-    "name": "Low End",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png"
+    "name": "Dark Landscape",
+    "author": "Gplus",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/DarkLandscape.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/DarkLandscape.jpg"
+  },
+  {
+    "name": "Sea Beach",
+    "author": "Gplus",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/SeaBeach.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/SeaBeach.jpg"
+  },
+  {
+    "name": "Aerial",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/aerial.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/aerial.png"
+  },
+  {
+    "name": "Blue Water",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png"
+  },
+  {
+    "name": "Colorize Gradient",
+    "author": "Dailywalls",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/colorizegradient.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/colorizegradient.png"
+  },
+  {
+    "name": "Night City",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png"
+  },
+  {
+    "name": "Sunset",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
+    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png"
   }
 ]
