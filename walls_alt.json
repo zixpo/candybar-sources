@@ -1,95 +1,74 @@
 [
   {
-    "name": "Toyota Rock Car",
-    "author": "JC Falcon",
-    "url": "https://images.unsplash.com/photo-1564844159766-f1565806300b?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564844159766-f1565806300b?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Aerial View",
+    "author": "Felfin Evin",
+    "url": "https://source.unsplash.com/XvFfPTSP2gA/1400x0",
+    "thumbUrl": "https://source.unsplash.com/XvFfPTSP2gA/200x0"
   },
   {
-    "name": "Tasty Fruit",
-    "author": "Alexandra Kikot",
-    "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Abstract Painting",
+    "author": "Alexander Ant",
+    "url": "https://source.unsplash.com/EHlp8e-nQ3g/1400x0",
+    "thumbUrl": "https://source.unsplash.com/EHlp8e-nQ3g/200x0"
   },
   {
-    "name": "Coral Coast",
-    "author": "Seaside Feel",
-    "url": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Grass",
+    "author": "Mike Vidrashko",
+    "url": "https://source.unsplash.com/4dhSFeg1pkU/1400x0",
+    "thumbUrl": "https://source.unsplash.com/4dhSFeg1pkU/200x0"
   },
   {
-    "name": "Duotone Dahlias",
+    "name": "Light Magic",
+    "author": "Alexander Ant",
+    "url": "https://source.unsplash.com/bYpqDs-lVJ8/1400x0",
+    "thumbUrl": "https://source.unsplash.com/bYpqDs-lVJ8/200x0"
+  },
+  {
+    "name": "Flowers",
     "author": "Annie Spratt",
-    "url": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80&w=200"
+    "url": "https://source.unsplash.com/WBpr_yH0Frg/1400x0",
+    "thumbUrl": "https://source.unsplash.com/WBpr_yH0Frg/200x0"
   },
   {
-    "name": "Yellow Insect",
-    "author": "Janine Joles",
-    "url": "https://images.unsplash.com/photo-1541165187031-c1e579a89706?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1541165187031-c1e579a89706?ixlib=rb-1.2.1&q=80&w=400"
+    "name": "Neon Fun",
+    "author": "Benjamin Szabo",
+    "url": "https://source.unsplash.com/9c7aC2CfgVM/1400x0",
+    "thumbUrl": "https://source.unsplash.com/9c7aC2CfgVM/200x0"
   },
   {
-    "name": "Low End",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png"
+    "name": "Abtract Painting",
+    "author": "Joel Filipe",
+    "url": "https://source.unsplash.com/Mbf3xFiC1Zo/1400x0",
+    "thumbUrl": "https://source.unsplash.com/Mbf3xFiC1Zo/200x0"
   },
   {
-    "name": "Tasty Fruit",
-    "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Race It",
+    "author": "Andre Tan",
+    "url": "https://source.unsplash.com/-O5a-OvFeTU/1400x0",
+    "thumbUrl": "https://source.unsplash.com/-O5a-OvFeTU/200x0"
   },
   {
-    "name": "Flower",
-    "author": "Alex Blajan",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/alex-blajan-flower.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png"
+    "name": "Earth View",
+    "author": "NASA",
+    "url": "https://source.unsplash.com/WKT3TE5AQu0/1400x0",
+    "thumbUrl": "https://source.unsplash.com/WKT3TE5AQu0/200x0"
   },
   {
-    "name": "Mid Boat",
-    "author": "Ahmad Ansari",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/MidBoat.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/MidBoat.jpg"
+    "name": "Water Droplets",
+    "author": "Faris Mohammed",
+    "url": "https://source.unsplash.com/l4ytdnzk8sk/1400x0",
+    "thumbUrl": "https://source.unsplash.com/l4ytdnzk8sk/200x0"
   },
   {
-    "name": "Dark Landscape",
-    "author": "Gplus",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/DarkLandscape.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/DarkLandscape.jpg"
+    "name": "Golden Hour",
+    "author": "Damien DUFOUR Photographie",
+    "url": "https://source.unsplash.com/TQr6XyHwCSI/1400x0",
+    "thumbUrl": "https://source.unsplash.com/TQr6XyHwCSI/200x0"
   },
   {
-    "name": "Sea Beach",
-    "author": "Gplus",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/SeaBeach.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/SeaBeach.jpg"
-  },
-  {
-    "name": "Aerial",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/aerial.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/aerial.png"
-  },
-  {
-    "name": "Blue Water",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png"
-  },
-  {
-    "name": "Colorize Gradient",
-    "author": "Dailywalls",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/colorizegradient.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/colorizegradient.png"
-  },
-  {
-    "name": "Night City",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png"
-  },
-  {
-    "name": "Sunset",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
-    "thumbUrl": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png"
+    "name": "Far Away",
+    "author": "Scott Taylor",
+    "url": "https://source.unsplash.com/02a4DSekRVg/1400x0",
+    "thumbUrl": "https://source.unsplash.com/02a4DSekRVg/200x0"
   }
 ]
